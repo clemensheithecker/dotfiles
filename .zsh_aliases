@@ -1,5 +1,5 @@
 # Configuration & setup
-alias gitcfg="git --git-dir=$HOME/.dotfiles --work-tree=$HOME"
+alias gitdf="git --git-dir=$HOME/.dotfiles --work-tree=$HOME"
 alias gitconfig="code ~/.gitconfig"
 alias sshconfig="code ~/.sshconfig"
 alias zshconfig="code ~/.zshrc"
