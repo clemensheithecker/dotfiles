@@ -1,0 +1,12 @@
+# Configuration & setup
+alias gitcfg="git --git-dir=$HOME/.dotfiles --work-tree=$HOME"
+alias gitconfig="code ~/.gitconfig"
+alias sshconfig="code ~/.sshconfig"
+alias zshconfig="code ~/.zshrc"
+alias zshsource="source ~/.zshrc"
+
+# Homebrew
+alias brewdump="brew bundle dump --all --describe --force"
+
+# Open applications
+alias oflow="open -a Flow"
